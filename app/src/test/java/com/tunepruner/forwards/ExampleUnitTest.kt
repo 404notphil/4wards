@@ -1,4 +1,4 @@
-package com.example.f4wards
+package com.tunepruner.forwards
 
 import org.junit.Test
 
